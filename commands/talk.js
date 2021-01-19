@@ -6,7 +6,7 @@ module.exports = {
     aliases: ['speak'],
 	async execute(message, args) {
         await message.delete();
-        if(message.author.id !== '693587727098314812') return;
+        if(message.author.id !== '[Your Discord ID]') return;
         let channel = message.mentions.channels.first();
         if(!channel) return;
         channel.send(args.slice(1, args.length).join(" "));
