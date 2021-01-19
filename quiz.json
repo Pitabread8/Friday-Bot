@@ -1,0 +1,74 @@
+[
+	{
+		"question": "What is Iron Man's full real name?",
+        "answer": "Anthony Edward Stark",
+        "wrong": ["Tony Stark", "Anthony Stark", "Anthony Howard Stark"],
+        "image": "https://cdn.discordapp.com/attachments/708510333894918225/737877546624090192/unknown.png"
+	},
+	{
+		"question": "What is the Winter Soldier's full real name?",
+        "answer": "James Buchanan Barnes",
+        "wrong": ["Bucky Barnes", "James Barnes", "James Buchannan Barnes"],
+        "image": "https://cdn.discordapp.com/attachments/708510333894918225/737877323524735016/unknown.png"
+    },
+    {
+        "question": "What species is Thanos?",
+        "answer": "Deviant",
+        "wrong": ["Chitauri", "Inhuman", "Titan"],
+        "image": ""
+    },
+    {
+        "question": "What was AIM (Advanced Idea Mechanics) working on before Tony Stark foiled their plans in Iron Man 3?",
+        "answer": "EXTREMIS",
+        "wrong": ["MODOK", "Kubik", "The Super-Adaptoid"],
+        "image": "https://i.dailymail.co.uk/i/pix/2013/04/17/article-0-193543DC000005DC-235_634x343.jpg"
+    },  
+    {
+        "question": "What is Thanos' father's name, as said by Red Skull in Avengers: Infinity War?",
+        "answer": "A'lars",
+        "wrong": ["Ajax", "Icarus", "Eros"],
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/45/Red_Skull_%28Avengers_Infinity_War%29.png/revision/latest?cb=20180817232406"
+    },
+    {
+        "question": "What is the name of the celestial being that destroyed a planet in a hologram during a scene in Guardians of the Galaxy?",
+        "answer": "Eson the Searcher",
+        "wrong": ["Gammenon the Gatherer", "Jemiah the Analyzer", "Nezarr the Calculator"],
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/b/b7/Esonsearcher.png/revision/latest/top-crop/width/720/height/900?cb=20141126104220"
+    },
+    {
+        "question": "In Guardians of the Galaxy, what is the name of the dog in the Collector's museum?",
+        "answer": "Cosmo the Spacedog",
+        "wrong": ["Balto the Brave", "The Astrodog", "Merlin"],
+        "image": "https://vignette.wikia.nocookie.net/disney/images/a/a1/Cosmo_Gotg.png/revision/latest/top-crop/width/360/height/450?cb=20141104172921"
+    },
+    {
+        "question": "What does S.H.I.E.L.D stand for in the MCU?",
+        "answer": "Strategic Homeland Intervention, Enforcement, and Logistics Division",
+        "wrong": ["Strategic Hazard Intervention Espionage Logistics Directorate", "Supreme Headquarters, International Espionage, Law-Enforcement Division", "Scientific Headquarters of International Espionage, Logistics and Discretion"],
+        "image": "https://i.pinimg.com/originals/f4/93/eb/f493ebabafa531870707bca859828824.jpg"
+    },
+    {
+        "question": "What is the name of Ronan's sidekick in Guardians of the Galaxy?",
+        "answer": "Korath",
+        "wrong": ["Atlas", "Hala", "Minn-Erva"],
+        "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/36/1536243352-korath-guardians-of-the-galaxy.jpg?resize=480:*"
+    },
+    {
+        "question": "What is the name of the prison that the people of Captain America's team were kept in Captain America: Civil War?",
+        "answer": "The Raft",
+        "wrong": ["Kyln", "Alcatraz", "The Vault"],
+        "image": "https://vignette.wikia.nocookie.net/marvel-cinematic-universe-guide/images/9/95/The_Raft.png/revision/latest?cb=20170514130721"
+    },
+    {
+        "question": "Which of Lady Sif and The Warriors Three was recast?",
+        "answer": "Fandral",
+        "wrong": ["Hogun", "Volstagg", "Sif"],
+        "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/Lady-Sif-Warriors-Three-from-Thor-The-Dark-World.jpg"
+    },
+    {
+        "question": "Which MCU director has directed the most MCU movies?",
+        "answer": "The Russo Brothers",
+        "wrong": ["Joss Whedon", "James Gunn", "Jon Favreau"],
+        "image": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/wire/legacy/JossWhedon_3.jpg"
+    }
+]
